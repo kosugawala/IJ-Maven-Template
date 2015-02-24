@@ -1,0 +1,4 @@
+﻿language: java
+jdk:
+  - openjdk6
+  - openjdk7
